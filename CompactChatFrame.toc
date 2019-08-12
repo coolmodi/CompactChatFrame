@@ -1,0 +1,7 @@
+## Interface: 11302
+## Title: Compact Chat Frame
+## Author: coolmodi
+## Notes: Shortens channel names to the uppercase letters, removes zone name, puts editbox on top and unclamps chat frame.
+## Version: 1.0
+
+main.lua
